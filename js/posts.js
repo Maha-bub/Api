@@ -6,7 +6,9 @@ function PostData() {
 
 
 /*
-1.
+1. create a section for show data
+2. select the container where put the data elements
+
 */
 
 function displayPost(posts) {
